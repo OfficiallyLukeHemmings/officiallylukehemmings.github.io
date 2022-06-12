@@ -1,5 +1,5 @@
 ## Bournemouth University Graduate - BSc (Hons) Computing
 
-### Repositories (Listed Chronologically)
-- [DigitalDoll](https://officiallylukehemmings.github.io/DigitalDoll.github.io/)
+### Repositories (Listed in Reverse Chronological Order)
 - [HLTV Enjoyability Predictor](https://officiallylukehemmings.github.io/HLTVPredictor.github.io/)
+- [DigitalDoll](https://officiallylukehemmings.github.io/DigitalDoll.github.io/)
