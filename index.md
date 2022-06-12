@@ -1,4 +1,4 @@
-# OfficiallyLukeHemmings || Bournemouth University - BSc (Hons) Computing
+Bournemouth University - BSc (Hons) Computing
 
 ## Repositories (Listed Chronologically)
 - [DigitalDoll](https://officiallylukehemmings.github.io/DigitalDoll.github.io/)
