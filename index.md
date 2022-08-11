@@ -1,4 +1,4 @@
-# Bournemouth University Graduate - BSc (Hons) Computing
+# BSc (Hons) Computing Graduate
 
 ## Repositories (Listed in Reverse Chronological Order)
 - [HLTV Enjoyability Predictor](https://officiallylukehemmings.github.io/HLTVPredictor.github.io/)
