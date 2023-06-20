@@ -1,5 +1,7 @@
 # Luke Hemmings - BSc (Hons) Computing
-
+---
+### GitHub profile: [OfficiallyLukeHemmings](https://github.com/OfficiallyLukeHemmings)
+---
 ### Projects (Listed in Reverse Chronological Order)
 - Athena Win/Loss Tracker (Website temporarily down)
 - [HLTV Enjoyability Predictor](https://officiallylukehemmings.github.io/HLTVPredictor.github.io/)
