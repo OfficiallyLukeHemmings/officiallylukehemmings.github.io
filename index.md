@@ -1,4 +1,5 @@
-# Luke Hemmings - BSc (Hons) Computing
+# Luke Hemmings
+
 ---
 ### GitHub profile: [OfficiallyLukeHemmings](https://github.com/OfficiallyLukeHemmings)
 ---
