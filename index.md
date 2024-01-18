@@ -11,7 +11,7 @@ I am a Bournemouth University BSc (Hons) Computing first class honours graduate 
 
 I am passionate about full-stack development using TypeScript and React, and have considerable experience with machine learning using Python. I also speak Spanish, having spent a large amount of my childhood in Spain.
 
-Please see below projects of which I am especially proud of.
+Please see below projects I am especially proud of.
 
 
 ## Projects (Listed in Reverse Chronological Order)
